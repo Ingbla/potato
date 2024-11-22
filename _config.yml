@@ -18,7 +18,7 @@ head:
 
   
 #baseur
-baseurl: "/potato"
+baseurl: ""
 url: "http://www.jobmoov.bond"
 
 
