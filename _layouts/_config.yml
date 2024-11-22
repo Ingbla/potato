@@ -1,0 +1,31 @@
+title: "www.jobmoov.bond"
+description: "addict web"
+
+markdown: kramdown
+permalink: pretty
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Configuration SASS
+sass:
+  style: compressed
+
+# Inclusion de votre feuille de style personnalisée
+head:
+  - "<link rel='stylesheet' href='{{ '/assets/css/style.css' | relative_url }}'>"
+
+  
+#baseur
+baseurl: "/potato"
+#url: "https://jobmoov.bond"
+
+
+# Paramètres par défaut pour les pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
