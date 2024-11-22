@@ -18,8 +18,8 @@ head:
 
   
 #baseur
-baseurl: ""
-url: "https://jobmoov.bond"
+baseurl: "/potato"
+#url: "https://jobmoov.bond"
 
 
 # Paramètres par défaut pour les pages
