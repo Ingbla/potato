@@ -17,9 +17,10 @@ head:
   - "<link rel='stylesheet' href='{{ '/assets/css/style.css' | relative_url }}'>"
 
 header_pages:
- - title: "Privacy Policy"
- url: "https://www.jobmoov.bond/privacy.md"
-
+  - title: "Home"
+    url: "/"
+  - title: "Privacy Policy"
+    url: "/privacy-policy/"
 
   
 #baseur
