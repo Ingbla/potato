@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Travail en Europe"
+title: "Travail en ligne"
 ---
 
 <p>lien sponsorisé</p>
